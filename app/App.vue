@@ -6,6 +6,7 @@
 </template>
 <script>
 import Content from './Content';
+console.log("22222")
 export default {
   name:'app',
   components:{Content}
