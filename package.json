@@ -16,7 +16,7 @@
     "autoprefixer": "^9.7.1",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "node-sass": "^4.13.0",
     "postcss-loader": "^3.0.0",
     "precss": "^4.0.0",
@@ -26,7 +26,7 @@
     "vue-loader": "^15.7.2",
     "vue-template-compiler": "^2.6.10",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
